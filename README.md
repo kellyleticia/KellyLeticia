@@ -1,60 +1,82 @@
-# 👋 Hi there, I'm Kelly Letícia! 
+<div align="center">
 
-Welcome to my little corner of GitHub! I'm a tech enthusiast with a passion for iOS development and machine learning—always on the lookout for innovative ways to bring ideas to life. 🚀
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=600&height=70&color=E9D5FF&lines=Hi+There!+👋;I'm+Kelly" />
 
+computer engineering student interested in machine learning, recommendation systems and data-driven products.
 
-## 👩‍💻 About me
-
-🎓 Computer Engineering student at the Federal Institute of Ceará. I dive deep into iOS development and explore the fascinating world of ML/AI. Whether I'm coding mobile apps, experimenting with NLP models, or working on computer vision projects, I love blending creativity with technology.
-
-💡 Passionate about problem-solving and always eager to learn new technologies.
-
-🌎 Open to collaboration on exciting projects in iOS development, ML/AI, and backend systems.
-
-
-## 🚀 What I'm Up To
-
-### 📱 iOS Development  
-* Developing iOS applications at Apple Developer Academy using Swift, SwiftUI, UIKit, and more.
-* Experienced in RESTful APIs, MVC/MVVM patterns, and publishing apps on the App Store.
-* Enthusiastic about creating engaging and user-friendly mobile experiences.
-
-### 🤖 Machine Learning Adventures  
-* Built NLP models in Python and experimented with computer vision using Python & C++.
-* Integrated ML models into backend systems with Flask, utilizing Golang & DynamoDB.
-* Always exploring new AI trends and real-world applications.
-
-
-## 🛠️ Tools & Technologies
-
-<div style="display: flex; justify-content: center;">
-
-  <!-- Swift -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="50" height="50" style="margin: 10px;" />
-  
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;" />
-  
-  <!-- C++ -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="margin: 10px;" />
-  
-  <!-- Golang -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="50" height="50" style="margin: 10px;" />
-  
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;" />
-  
-  <!-- Xcode -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50" style="margin: 10px;" />
-  
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 10px;" />
 </div>
 
+```python
+kelly = {
+    "interests": [
+        "machine learning",
+        "recommendation systems",
+        "nlp",
+        "backend development",
+        "data science"
+    ]
+}
+```
 
-## 📫 Let's Connect!
+### tech
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kellyletícia)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kellyleticiamorais@gmail.com)
+![Python](https://img.shields.io/badge/Python-E9D5FF?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-E9D5FF?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-E9D5FF?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-E9D5FF?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-E9D5FF?style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-E9D5FF?style=flat-square)
 
-Feel free to reach out if you want to chat about technology, iOS development, or ML! 😊
+### featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Fashion RecoSys
+
+Semantic recommendation system powered by embeddings and vector search.
+
+`Python` `FAISS` `FastAPI`
+
+<a href="https://github.com/kellyleticia/recsys-fashion">view project →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### V.E.R.A.
+
+Machine learning application for predicting student dropout risk.
+
+Selected to represent Apple Developer Academy Fortaleza at Graduation 2025.
+
+<a href="https://apps.apple.com/br/app/vera-inteligência-educacional/id6753946944?mt=12">download →</a>
+
+<a href="https://www.eivera.com.br">site →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Gas Consumption Monitor
+
+IoT solution integrating ESP32 sensors and an iOS application via BLE.
+
+`Swift` `ESP32` `BLE`
+
+<a href="https://github.com/kellyleticia/GasOn">explore →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Currently Learning
+
+Machine Learning Engineering • MLOps • Retrieval Systems • LLM Applications
+
+</td>
+</tr>
+</table>
