@@ -26,16 +26,13 @@ kelly = {
 ![FAISS](https://img.shields.io/badge/FAISS-E9D5FF?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-E9D5FF?style=flat-square)
 ![Swift](https://img.shields.io/badge/Swift-E9D5FF?style=flat-square)
-
-### featured projects
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Fashion RecoSys
 
-Semantic recommendation system powered by embeddings and vector search.
+Content-based recommendation system powered by embeddings, vector search and FastAPI.
 
 `Python` `FAISS` `FastAPI`
 
@@ -43,39 +40,27 @@ Semantic recommendation system powered by embeddings and vector search.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### V.E.R.A.
 
-Machine learning application for predicting student dropout risk.
+Predictive student retention platform combining machine learning, explainable insights and automated interventions.
 
 Selected to represent Apple Developer Academy Fortaleza at Graduation 2025.
 
-<a href="https://apps.apple.com/br/app/vera-inteligência-educacional/id6753946944?mt=12">download →</a>
-
-<a href="https://www.eivera.com.br">site →</a>
-
+<a href="https://www.eivera.com.br">learn more →</a>
+<br> <br>
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Gas Consumption Monitor
 
-IoT solution integrating ESP32 sensors and an iOS application via BLE.
+Low-cost IoT system for monitoring household gas consumption using ESP32 sensors and an iOS application.
 
 `Swift` `ESP32` `BLE`
 
 <a href="https://github.com/kellyleticia/GasOn">explore →</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Currently Learning
-
-Machine Learning Engineering • MLOps • Retrieval Systems • LLM Applications
 
 </td>
 </tr>
