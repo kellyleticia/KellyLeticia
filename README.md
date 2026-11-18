@@ -8,12 +8,12 @@ computer engineering student interested in machine learning, recommendation syst
 
 ```python
 kelly = {
-    "interests": [
-        "machine learning",
+    "focus": [
+        "generative ai & llms",
+        "rag & vector search",
+        "ai agents & tool calling",
         "recommendation systems",
-        "nlp",
-        "backend development",
-        "data science"
+        "backend & ml engineering"
     ]
 }
 ```
@@ -21,11 +21,14 @@ kelly = {
 ### tech
 
 ![Python](https://img.shields.io/badge/Python-E9D5FF?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-E9D5FF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-E9D5FF?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-E9D5FF?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-E9D5FF?style=flat-square)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-E9D5FF?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-E9D5FF?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-E9D5FF?style=flat-square)
-![Swift](https://img.shields.io/badge/Swift-E9D5FF?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-E9D5FF?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-E9D5FF?style=flat-square)
+![pytest](https://img.shields.io/badge/pytest-E9D5FF?style=flat-square)
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -54,13 +57,12 @@ Selected to represent Apple Developer Academy Fortaleza at Graduation 2025.
 
 <td width="33%" valign="top">
 
-### Gas Consumption Monitor
+### **Movie Recommender**
+Recommendation API comparing Content-Based and Item-Based Collaborative Filtering with statistical evaluation and ranking metrics.
 
-Low-cost IoT system for monitoring household gas consumption using ESP32 sensors and an iOS application.
+![Python](https://img.shields.io/badge/Python-262626?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-262626?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-262626?style=flat-square)
 
-`Swift` `ESP32` `BLE`
-
-<a href="https://github.com/kellyleticia/GasOn">explore →</a>
+[view project →](https://github.com/kellyleticia/movie-recommender)
 
 </td>
 </tr>
