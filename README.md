@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=600&height=70&color=E9D5FF&lines=Hi+There!+👋;I'm+Kelly" />
 
-computer engineering student interested in machine learning, recommendation systems and data-driven products.
+building generative ai, recommendation systems and data-driven products.
 
 </div>
 
