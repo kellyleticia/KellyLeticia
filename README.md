@@ -48,7 +48,7 @@ Predictive student retention platform combining machine learning, explainable in
 
 Selected to represent Apple Developer Academy Fortaleza at Graduation 2025.
 
-<a href="[https://www.eivera.com.br](https://www.youtube.com/watch?v=EyDUia59L18)">learn more →</a>
+<a href="https://www.youtube.com/watch?v=EyDUia59L18)](https://youtu.be/EyDUia59L18?si=ehrytlhhwJ4FR_yc">learn more →</a>
 <br> <br>
 </td>
 
